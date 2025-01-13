@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>LexPlug Podcast</title>
+    <title>Keeping it Brief | Lexplug</title>
     <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com</link>
-    <description>Legal case briefs in podcast form by LexPlug.</description>
+    <description>Keeping it Brief - A legal case brief podcast series by Lexplug.</description>
     <language>en-us</language>
     <itunes:author>LexPlug</itunes:author>
-    <itunes:summary>Legal case briefs in podcast form by LexPlug.</itunes:summary>
+    <itunes:summary>Keeping it Brief - A legal case brief podcast series by Lexplug.</itunes:summary>
     <itunes:owner>
-      <itunes:name>LexPlug</itunes:name>
+      <itunes:name>Lexplug</itunes:name>
       <itunes:email>team@lexplug.com</itunes:email>
     </itunes:owner>
     <itunes:category text="Podcast"/>
