@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="https://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Keeping it Brief | Lexplug</title>
     <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com</link>
@@ -12,17 +12,17 @@
       <itunes:email>team@lexplug.com</itunes:email>
     </itunes:owner>
     <itunes:category text="Education" />
-    <itunes:image href="https://lexplug.com/podcast_cover.png" />
+    <itunes:image href="https://lexplug.com/podcast_cover_1400.png" />
 
     <item>
       <title>Columbia Pictures Indus., Inc. v. Redd Horne, Inc.</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599a2d1ef176f95c762ca1e.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599a2d1ef176f95c762ca1e.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599a2d1ef176f95c762ca1e.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599a2d1ef176f95c762ca1e.mp3</guid>
       <description>Columbia Pictures Indus., Inc. v. Redd Horne, Inc.
 United States Court of Appeals, Third Circuit
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599a2d1ef176f95c762ca1e.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599a2d1ef176f95c762ca1e.mp3" length="0" type="audio/mpeg" />
       <pubDate>Thu, 02 Jan 2025 09:00:00 GMT</pubDate>
       <itunes:summary>Columbia Pictures Indus., Inc. v. Redd Horne, Inc.
 United States Court of Appeals, Third Circuit
@@ -33,13 +33,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Leadsinger Inc v. BMG Music Publishing</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599a2d8ef176f95c762ca1f.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599a2d8ef176f95c762ca1f.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599a2d8ef176f95c762ca1f.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599a2d8ef176f95c762ca1f.mp3</guid>
       <description>Leadsinger Inc v. BMG Music Publishing
 United States Court of Appeals, Ninth Circuit
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599a2d8ef176f95c762ca1f.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599a2d8ef176f95c762ca1f.mp3" length="0" type="audio/mpeg" />
       <pubDate>Thu, 02 Jan 2025 10:00:00 GMT</pubDate>
       <itunes:summary>Leadsinger Inc v. BMG Music Publishing
 United States Court of Appeals, Ninth Circuit
@@ -50,13 +50,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Stewart v. Abend</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599a2d8ef176f95c762ca20.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599a2d8ef176f95c762ca20.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599a2d8ef176f95c762ca20.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599a2d8ef176f95c762ca20.mp3</guid>
       <description>Stewart v. Abend
 Supreme Court of United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599a2d8ef176f95c762ca20.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599a2d8ef176f95c762ca20.mp3" length="0" type="audio/mpeg" />
       <pubDate>Thu, 02 Jan 2025 11:00:00 GMT</pubDate>
       <itunes:summary>Stewart v. Abend
 Supreme Court of United States
@@ -67,13 +67,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Fonovisa, Inc. v. Cherry Auction, Inc.</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599a355ef176f95c762ca26.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599a355ef176f95c762ca26.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599a355ef176f95c762ca26.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599a355ef176f95c762ca26.mp3</guid>
       <description>Fonovisa, Inc. v. Cherry Auction, Inc.
 United States Court of Appeals, Ninth Circuit
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599a355ef176f95c762ca26.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599a355ef176f95c762ca26.mp3" length="0" type="audio/mpeg" />
       <pubDate>Thu, 02 Jan 2025 12:00:00 GMT</pubDate>
       <itunes:summary>Fonovisa, Inc. v. Cherry Auction, Inc.
 United States Court of Appeals, Ninth Circuit
@@ -84,13 +84,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Campbell v. Acuff–Rose Music, Inc.</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599a481ef176f95c762ca3f.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599a481ef176f95c762ca3f.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599a481ef176f95c762ca3f.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599a481ef176f95c762ca3f.mp3</guid>
       <description>Campbell v. Acuff–Rose Music, Inc.
 Supreme Court of United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599a481ef176f95c762ca3f.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599a481ef176f95c762ca3f.mp3" length="0" type="audio/mpeg" />
       <pubDate>Thu, 02 Jan 2025 13:00:00 GMT</pubDate>
       <itunes:summary>Campbell v. Acuff–Rose Music, Inc.
 Supreme Court of United States
@@ -101,13 +101,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>New York Times Co. v. Sullivan</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599d20e02a2d0744905329d.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599d20e02a2d0744905329d.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599d20e02a2d0744905329d.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599d20e02a2d0744905329d.mp3</guid>
       <description>New York Times Co. v. Sullivan
 Supreme Court of the United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599d20e02a2d0744905329d.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599d20e02a2d0744905329d.mp3" length="0" type="audio/mpeg" />
       <pubDate>Thu, 02 Jan 2025 14:00:00 GMT</pubDate>
       <itunes:summary>New York Times Co. v. Sullivan
 Supreme Court of the United States
@@ -118,13 +118,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>United States v. O'Brien</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599d30702a2d074490532cb.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599d30702a2d074490532cb.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599d30702a2d074490532cb.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599d30702a2d074490532cb.mp3</guid>
       <description>United States v. O'Brien
 Supreme Court of the United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599d30702a2d074490532cb.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599d30702a2d074490532cb.mp3" length="0" type="audio/mpeg" />
       <pubDate>Thu, 02 Jan 2025 15:00:00 GMT</pubDate>
       <itunes:summary>United States v. O'Brien
 Supreme Court of the United States
@@ -135,13 +135,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Camps Newfound/Owatonna, Inc. v. Town of Harrison</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599eb6c6998523b8b4535e8.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599eb6c6998523b8b4535e8.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599eb6c6998523b8b4535e8.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599eb6c6998523b8b4535e8.mp3</guid>
       <description>Camps Newfound/Owatonna, Inc. v. Town of Harrison
 United States Supreme Court
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599eb6c6998523b8b4535e8.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599eb6c6998523b8b4535e8.mp3" length="0" type="audio/mpeg" />
       <pubDate>Thu, 02 Jan 2025 16:00:00 GMT</pubDate>
       <itunes:summary>Camps Newfound/Owatonna, Inc. v. Town of Harrison
 United States Supreme Court
@@ -169,13 +169,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Brown v. Board of Education (Brown I)</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599ecf66998523b8b45360a.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599ecf66998523b8b45360a.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599ecf66998523b8b45360a.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599ecf66998523b8b45360a.mp3</guid>
       <description>Brown v. Board of Education (Brown I)
 Supreme Court of United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599ecf66998523b8b45360a.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599ecf66998523b8b45360a.mp3" length="0" type="audio/mpeg" />
       <pubDate>Thu, 02 Jan 2025 18:00:00 GMT</pubDate>
       <itunes:summary>Brown v. Board of Education (Brown I)
 Supreme Court of United States
@@ -186,13 +186,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Terry v. Ohio</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599ee7c6998523b8b453621.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599ee7c6998523b8b453621.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599ee7c6998523b8b453621.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599ee7c6998523b8b453621.mp3</guid>
       <description>Terry v. Ohio
 Supreme Court of United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599ee7c6998523b8b453621.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599ee7c6998523b8b453621.mp3" length="0" type="audio/mpeg" />
       <pubDate>Thu, 02 Jan 2025 19:00:00 GMT</pubDate>
       <itunes:summary>Terry v. Ohio
 Supreme Court of United States
@@ -203,13 +203,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Allen v. Wright</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599ef8d6998523b8b45363e.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599ef8d6998523b8b45363e.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599ef8d6998523b8b45363e.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599ef8d6998523b8b45363e.mp3</guid>
       <description>Allen v. Wright
 Supreme Court of United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599ef8d6998523b8b45363e.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599ef8d6998523b8b45363e.mp3" length="0" type="audio/mpeg" />
       <pubDate>Thu, 02 Jan 2025 20:00:00 GMT</pubDate>
       <itunes:summary>Allen v. Wright
 Supreme Court of United States
@@ -220,13 +220,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Gibbons v. Ogden</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599f02f6998523b8b45364b.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599f02f6998523b8b45364b.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599f02f6998523b8b45364b.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599f02f6998523b8b45364b.mp3</guid>
       <description>Gibbons v. Ogden
 Supreme Court of the United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599f02f6998523b8b45364b.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599f02f6998523b8b45364b.mp3" length="0" type="audio/mpeg" />
       <pubDate>Thu, 02 Jan 2025 21:00:00 GMT</pubDate>
       <itunes:summary>Gibbons v. Ogden
 Supreme Court of the United States
@@ -237,13 +237,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>National Labor Relations Board v. Jones &amp; Laughlin Steel Corp.</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599f0f66998523b8b453660.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599f0f66998523b8b453660.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599f0f66998523b8b453660.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599f0f66998523b8b453660.mp3</guid>
       <description>National Labor Relations Board v. Jones &amp; Laughlin Steel Corp.
 Supreme Court of the United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599f0f66998523b8b453660.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599f0f66998523b8b453660.mp3" length="0" type="audio/mpeg" />
       <pubDate>Thu, 02 Jan 2025 22:00:00 GMT</pubDate>
       <itunes:summary>National Labor Relations Board v. Jones &amp; Laughlin Steel Corp.
 Supreme Court of the United States
@@ -254,13 +254,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Plaut v. Spendthrift Farm, Inc.</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599fa696998523b8b453679.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599fa696998523b8b453679.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599fa696998523b8b453679.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599fa696998523b8b453679.mp3</guid>
       <description>Plaut v. Spendthrift Farm, Inc.
 United States Supreme Court
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599fa696998523b8b453679.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599fa696998523b8b453679.mp3" length="0" type="audio/mpeg" />
       <pubDate>Thu, 02 Jan 2025 23:00:00 GMT</pubDate>
       <itunes:summary>Plaut v. Spendthrift Farm, Inc.
 United States Supreme Court
@@ -271,13 +271,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>United States v. Morrison</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599fa836998523b8b45367a.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599fa836998523b8b45367a.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599fa836998523b8b45367a.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599fa836998523b8b45367a.mp3</guid>
       <description>United States v. Morrison
 Supreme Court of the United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599fa836998523b8b45367a.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599fa836998523b8b45367a.mp3" length="0" type="audio/mpeg" />
       <pubDate>Fri, 03 Jan 2025 00:00:00 GMT</pubDate>
       <itunes:summary>United States v. Morrison
 Supreme Court of the United States
@@ -288,13 +288,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>United States v. Lopez</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599fbe26998523b8b453691.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599fbe26998523b8b453691.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599fbe26998523b8b453691.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599fbe26998523b8b453691.mp3</guid>
       <description>United States v. Lopez
 United States Supreme Court
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599fbe26998523b8b453691.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599fbe26998523b8b453691.mp3" length="0" type="audio/mpeg" />
       <pubDate>Fri, 03 Jan 2025 01:00:00 GMT</pubDate>
       <itunes:summary>United States v. Lopez
 United States Supreme Court
@@ -305,13 +305,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>McCulloch v. Maryland</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599fc956998523b8b4536a1.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599fc956998523b8b4536a1.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599fc956998523b8b4536a1.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599fc956998523b8b4536a1.mp3</guid>
       <description>McCulloch v. Maryland
 Supreme Court of the United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599fc956998523b8b4536a1.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599fc956998523b8b4536a1.mp3" length="0" type="audio/mpeg" />
       <pubDate>Fri, 03 Jan 2025 02:00:00 GMT</pubDate>
       <itunes:summary>McCulloch v. Maryland
 Supreme Court of the United States
@@ -322,13 +322,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Flast v. Cohen</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599fcd86998523b8b4536a3.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599fcd86998523b8b4536a3.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599fcd86998523b8b4536a3.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599fcd86998523b8b4536a3.mp3</guid>
       <description>Flast v. Cohen
 Supreme Court of United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599fcd86998523b8b4536a3.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599fcd86998523b8b4536a3.mp3" length="0" type="audio/mpeg" />
       <pubDate>Fri, 03 Jan 2025 03:00:00 GMT</pubDate>
       <itunes:summary>Flast v. Cohen
 Supreme Court of United States
@@ -339,13 +339,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Mapp v. Ohio</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599fdcf6998523b8b4536b4.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599fdcf6998523b8b4536b4.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599fdcf6998523b8b4536b4.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599fdcf6998523b8b4536b4.mp3</guid>
       <description>Mapp v. Ohio
 Supreme Court of United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599fdcf6998523b8b4536b4.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599fdcf6998523b8b4536b4.mp3" length="0" type="audio/mpeg" />
       <pubDate>Fri, 03 Jan 2025 04:00:00 GMT</pubDate>
       <itunes:summary>Mapp v. Ohio
 Supreme Court of United States
@@ -356,13 +356,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Katz v. United States</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599ff0c6998523b8b4536c6.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599ff0c6998523b8b4536c6.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599ff0c6998523b8b4536c6.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599ff0c6998523b8b4536c6.mp3</guid>
       <description>Katz v. United States
 Supreme Court of the United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599ff0c6998523b8b4536c6.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599ff0c6998523b8b4536c6.mp3" length="0" type="audio/mpeg" />
       <pubDate>Fri, 03 Jan 2025 05:00:00 GMT</pubDate>
       <itunes:summary>Katz v. United States
 Supreme Court of the United States
@@ -373,13 +373,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>National Federation of Independent Business v. Sebelius</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599ff746998523b8b4536cf.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599ff746998523b8b4536cf.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599ff746998523b8b4536cf.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599ff746998523b8b4536cf.mp3</guid>
       <description>National Federation of Independent Business v. Sebelius
 Supreme Court of the United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6599ff746998523b8b4536cf.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/6599ff746998523b8b4536cf.mp3" length="0" type="audio/mpeg" />
       <pubDate>Fri, 03 Jan 2025 06:00:00 GMT</pubDate>
       <itunes:summary>National Federation of Independent Business v. Sebelius
 Supreme Court of the United States
@@ -390,13 +390,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Seila Law LLC v. Consumer Financial Protection Bureau</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659a019b6998523b8b4536f5.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659a019b6998523b8b4536f5.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659a019b6998523b8b4536f5.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659a019b6998523b8b4536f5.mp3</guid>
       <description>Seila Law LLC v. Consumer Financial Protection Bureau
 Supreme Court of the United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659a019b6998523b8b4536f5.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/659a019b6998523b8b4536f5.mp3" length="0" type="audio/mpeg" />
       <pubDate>Fri, 03 Jan 2025 07:00:00 GMT</pubDate>
       <itunes:summary>Seila Law LLC v. Consumer Financial Protection Bureau
 Supreme Court of the United States
@@ -407,13 +407,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Washington v. Davis</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659a05e76998523b8b45373c.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659a05e76998523b8b45373c.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659a05e76998523b8b45373c.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659a05e76998523b8b45373c.mp3</guid>
       <description>Washington v. Davis
 Supreme Court of United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659a05e76998523b8b45373c.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/659a05e76998523b8b45373c.mp3" length="0" type="audio/mpeg" />
       <pubDate>Fri, 03 Jan 2025 08:00:00 GMT</pubDate>
       <itunes:summary>Washington v. Davis
 Supreme Court of United States
@@ -424,13 +424,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Lawrence v. Texas</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659a06346998523b8b45373f.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659a06346998523b8b45373f.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659a06346998523b8b45373f.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659a06346998523b8b45373f.mp3</guid>
       <description>Lawrence v. Texas
 Supreme Court of United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659a06346998523b8b45373f.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/659a06346998523b8b45373f.mp3" length="0" type="audio/mpeg" />
       <pubDate>Fri, 03 Jan 2025 09:00:00 GMT</pubDate>
       <itunes:summary>Lawrence v. Texas
 Supreme Court of United States
@@ -441,13 +441,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Kelo v. City of New London</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659a072a6998523b8b45374e.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659a072a6998523b8b45374e.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659a072a6998523b8b45374e.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659a072a6998523b8b45374e.mp3</guid>
       <description>Kelo v. City of New London
 Supreme Court of United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659a072a6998523b8b45374e.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/659a072a6998523b8b45374e.mp3" length="0" type="audio/mpeg" />
       <pubDate>Fri, 03 Jan 2025 10:00:00 GMT</pubDate>
       <itunes:summary>Kelo v. City of New London
 Supreme Court of United States
@@ -458,13 +458,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Ashcroft v. Iqbal</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b0774da04d41241e160b0.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b0774da04d41241e160b0.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b0774da04d41241e160b0.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b0774da04d41241e160b0.mp3</guid>
       <description>Ashcroft v. Iqbal
 Supreme Court of United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b0774da04d41241e160b0.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b0774da04d41241e160b0.mp3" length="0" type="audio/mpeg" />
       <pubDate>Fri, 03 Jan 2025 11:00:00 GMT</pubDate>
       <itunes:summary>Ashcroft v. Iqbal
 Supreme Court of United States
@@ -475,13 +475,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Burger King Corp. v. Rudzewicz</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b07cfda04d41241e160b7.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b07cfda04d41241e160b7.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b07cfda04d41241e160b7.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b07cfda04d41241e160b7.mp3</guid>
       <description>Burger King Corp. v. Rudzewicz
 Supreme Court of the United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b07cfda04d41241e160b7.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b07cfda04d41241e160b7.mp3" length="0" type="audio/mpeg" />
       <pubDate>Fri, 03 Jan 2025 12:00:00 GMT</pubDate>
       <itunes:summary>Burger King Corp. v. Rudzewicz
 Supreme Court of the United States
@@ -492,13 +492,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Asahi Metal Industry Co. v. Superior Court</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b0827da04d41241e160bc.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b0827da04d41241e160bc.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b0827da04d41241e160bc.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b0827da04d41241e160bc.mp3</guid>
       <description>Asahi Metal Industry Co. v. Superior Court
 Supreme Court of United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b0827da04d41241e160bc.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b0827da04d41241e160bc.mp3" length="0" type="audio/mpeg" />
       <pubDate>Fri, 03 Jan 2025 13:00:00 GMT</pubDate>
       <itunes:summary>Asahi Metal Industry Co. v. Superior Court
 Supreme Court of United States
@@ -509,13 +509,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Carnival Cruise Lines, Inc. v. Shute</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b0969da04d41241e160d7.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b0969da04d41241e160d7.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b0969da04d41241e160d7.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b0969da04d41241e160d7.mp3</guid>
       <description>Carnival Cruise Lines, Inc. v. Shute
 Supreme Court of the United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b0969da04d41241e160d7.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b0969da04d41241e160d7.mp3" length="0" type="audio/mpeg" />
       <pubDate>Fri, 03 Jan 2025 14:00:00 GMT</pubDate>
       <itunes:summary>Carnival Cruise Lines, Inc. v. Shute
 Supreme Court of the United States
@@ -526,13 +526,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Hanna v. Plumer</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b0975da04d41241e160d9.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b0975da04d41241e160d9.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b0975da04d41241e160d9.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b0975da04d41241e160d9.mp3</guid>
       <description>Hanna v. Plumer
 Supreme Court of United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b0975da04d41241e160d9.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b0975da04d41241e160d9.mp3" length="0" type="audio/mpeg" />
       <pubDate>Fri, 03 Jan 2025 15:00:00 GMT</pubDate>
       <itunes:summary>Hanna v. Plumer
 Supreme Court of United States
@@ -543,13 +543,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>McGee v. International Life Insurance Co.</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b0995da04d41241e160dc.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b0995da04d41241e160dc.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b0995da04d41241e160dc.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b0995da04d41241e160dc.mp3</guid>
       <description>McGee v. International Life Insurance Co.
 Supreme Court of United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b0995da04d41241e160dc.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b0995da04d41241e160dc.mp3" length="0" type="audio/mpeg" />
       <pubDate>Fri, 03 Jan 2025 16:00:00 GMT</pubDate>
       <itunes:summary>McGee v. International Life Insurance Co.
 Supreme Court of United States
@@ -560,13 +560,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>J. McIntyre Machinery, Ltd. v. Nicastro</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b0a5cda04d41241e160e7.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b0a5cda04d41241e160e7.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b0a5cda04d41241e160e7.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b0a5cda04d41241e160e7.mp3</guid>
       <description>J. McIntyre Machinery, Ltd. v. Nicastro
 Supreme Court of the United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b0a5cda04d41241e160e7.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b0a5cda04d41241e160e7.mp3" length="0" type="audio/mpeg" />
       <pubDate>Fri, 03 Jan 2025 17:00:00 GMT</pubDate>
       <itunes:summary>J. McIntyre Machinery, Ltd. v. Nicastro
 Supreme Court of the United States
@@ -577,13 +577,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Mullane v. Central Hanover Bank &amp; Trust Co.</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b0ab0da04d41241e160eb.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b0ab0da04d41241e160eb.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b0ab0da04d41241e160eb.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b0ab0da04d41241e160eb.mp3</guid>
       <description>Mullane v. Central Hanover Bank &amp; Trust Co.
 Supreme Court of United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b0ab0da04d41241e160eb.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b0ab0da04d41241e160eb.mp3" length="0" type="audio/mpeg" />
       <pubDate>Fri, 03 Jan 2025 18:00:00 GMT</pubDate>
       <itunes:summary>Mullane v. Central Hanover Bank &amp; Trust Co.
 Supreme Court of United States
@@ -594,13 +594,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Daimler AG v. Bauman</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b0b2fda04d41241e160f9.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b0b2fda04d41241e160f9.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b0b2fda04d41241e160f9.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b0b2fda04d41241e160f9.mp3</guid>
       <description>Daimler AG v. Bauman
 Supreme Court of the United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b0b2fda04d41241e160f9.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b0b2fda04d41241e160f9.mp3" length="0" type="audio/mpeg" />
       <pubDate>Fri, 03 Jan 2025 19:00:00 GMT</pubDate>
       <itunes:summary>Daimler AG v. Bauman
 Supreme Court of the United States
@@ -611,13 +611,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>World-Wide Volkswagen Corp. v. Woodson</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b0b83da04d41241e160fe.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b0b83da04d41241e160fe.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b0b83da04d41241e160fe.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b0b83da04d41241e160fe.mp3</guid>
       <description>World-Wide Volkswagen Corp. v. Woodson
 Supreme Court of United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b0b83da04d41241e160fe.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b0b83da04d41241e160fe.mp3" length="0" type="audio/mpeg" />
       <pubDate>Fri, 03 Jan 2025 20:00:00 GMT</pubDate>
       <itunes:summary>World-Wide Volkswagen Corp. v. Woodson
 Supreme Court of United States
@@ -628,13 +628,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Lucy v. Zehmer</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b0efbda04d41241e16137.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b0efbda04d41241e16137.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b0efbda04d41241e16137.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b0efbda04d41241e16137.mp3</guid>
       <description>Lucy v. Zehmer
 Supreme Court of Virginia
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b0efbda04d41241e16137.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b0efbda04d41241e16137.mp3" length="0" type="audio/mpeg" />
       <pubDate>Fri, 03 Jan 2025 21:00:00 GMT</pubDate>
       <itunes:summary>Lucy v. Zehmer
 Supreme Court of Virginia
@@ -645,13 +645,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Frigaliment Importing Co. v. B.N.S. International Sales Corp.</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b110dda04d41241e16163.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b110dda04d41241e16163.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b110dda04d41241e16163.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b110dda04d41241e16163.mp3</guid>
       <description>Frigaliment Importing Co. v. B.N.S. International Sales Corp.
 United States District Court S. D. New York
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b110dda04d41241e16163.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b110dda04d41241e16163.mp3" length="0" type="audio/mpeg" />
       <pubDate>Fri, 03 Jan 2025 22:00:00 GMT</pubDate>
       <itunes:summary>Frigaliment Importing Co. v. B.N.S. International Sales Corp.
 United States District Court S. D. New York
@@ -662,13 +662,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Wagenseller v. Scottsdale Memorial Hospital</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b1688da04d41241e161cf.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b1688da04d41241e161cf.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b1688da04d41241e161cf.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b1688da04d41241e161cf.mp3</guid>
       <description>Wagenseller v. Scottsdale Memorial Hospital
 Supreme Court of Arizona, En Banc
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b1688da04d41241e161cf.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b1688da04d41241e161cf.mp3" length="0" type="audio/mpeg" />
       <pubDate>Fri, 03 Jan 2025 23:00:00 GMT</pubDate>
       <itunes:summary>Wagenseller v. Scottsdale Memorial Hospital
 Supreme Court of Arizona, En Banc
@@ -679,13 +679,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Lefkowitz v. Great Minneapolis Surplus Store</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b16dbda04d41241e161d3.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b16dbda04d41241e161d3.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b16dbda04d41241e161d3.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b16dbda04d41241e161d3.mp3</guid>
       <description>Lefkowitz v. Great Minneapolis Surplus Store
 Supreme Court of Minnesota
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b16dbda04d41241e161d3.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b16dbda04d41241e161d3.mp3" length="0" type="audio/mpeg" />
       <pubDate>Sat, 04 Jan 2025 00:00:00 GMT</pubDate>
       <itunes:summary>Lefkowitz v. Great Minneapolis Surplus Store
 Supreme Court of Minnesota
@@ -696,13 +696,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Carpenter v. United States</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b1954da04d41241e161fe.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b1954da04d41241e161fe.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b1954da04d41241e161fe.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b1954da04d41241e161fe.mp3</guid>
       <description>Carpenter v. United States
 Supreme Court of United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b1954da04d41241e161fe.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b1954da04d41241e161fe.mp3" length="0" type="audio/mpeg" />
       <pubDate>Sat, 04 Jan 2025 01:00:00 GMT</pubDate>
       <itunes:summary>Carpenter v. United States
 Supreme Court of United States
@@ -713,13 +713,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Riley v. California</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b2051da04d41241e16281.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b2051da04d41241e16281.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b2051da04d41241e16281.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b2051da04d41241e16281.mp3</guid>
       <description>Riley v. California
 Supreme Court of the United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b2051da04d41241e16281.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b2051da04d41241e16281.mp3" length="0" type="audio/mpeg" />
       <pubDate>Sat, 04 Jan 2025 02:00:00 GMT</pubDate>
       <itunes:summary>Riley v. California
 Supreme Court of the United States
@@ -730,13 +730,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Keeler v. Superior Court</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b25b6da04d41241e162eb.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b25b6da04d41241e162eb.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b25b6da04d41241e162eb.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b25b6da04d41241e162eb.mp3</guid>
       <description>Keeler v. Superior Court
 Supreme Court of California
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b25b6da04d41241e162eb.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b25b6da04d41241e162eb.mp3" length="0" type="audio/mpeg" />
       <pubDate>Sat, 04 Jan 2025 03:00:00 GMT</pubDate>
       <itunes:summary>Keeler v. Superior Court
 Supreme Court of California
@@ -747,13 +747,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Whren v. United States</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b2f19da04d41241e1638b.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b2f19da04d41241e1638b.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b2f19da04d41241e1638b.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b2f19da04d41241e1638b.mp3</guid>
       <description>Whren v. United States
 Supreme Court of the United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b2f19da04d41241e1638b.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b2f19da04d41241e1638b.mp3" length="0" type="audio/mpeg" />
       <pubDate>Sat, 04 Jan 2025 04:00:00 GMT</pubDate>
       <itunes:summary>Whren v. United States
 Supreme Court of the United States
@@ -764,13 +764,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>California v. Greenwood</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b2f20da04d41241e1638f.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b2f20da04d41241e1638f.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b2f20da04d41241e1638f.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b2f20da04d41241e1638f.mp3</guid>
       <description>California v. Greenwood
 Supreme Court of United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b2f20da04d41241e1638f.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b2f20da04d41241e1638f.mp3" length="0" type="audio/mpeg" />
       <pubDate>Sat, 04 Jan 2025 05:00:00 GMT</pubDate>
       <itunes:summary>California v. Greenwood
 Supreme Court of United States
@@ -781,13 +781,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>United States v. White</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b301bda04d41241e1639b.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b301bda04d41241e1639b.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b301bda04d41241e1639b.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b301bda04d41241e1639b.mp3</guid>
       <description>United States v. White
 Supreme Court of United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b301bda04d41241e1639b.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b301bda04d41241e1639b.mp3" length="0" type="audio/mpeg" />
       <pubDate>Sat, 04 Jan 2025 06:00:00 GMT</pubDate>
       <itunes:summary>United States v. White
 Supreme Court of United States
@@ -798,13 +798,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>California v. Acevedo</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b3077da04d41241e163a3.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b3077da04d41241e163a3.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b3077da04d41241e163a3.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b3077da04d41241e163a3.mp3</guid>
       <description>California v. Acevedo
 Supreme Court of the United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b3077da04d41241e163a3.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b3077da04d41241e163a3.mp3" length="0" type="audio/mpeg" />
       <pubDate>Sat, 04 Jan 2025 07:00:00 GMT</pubDate>
       <itunes:summary>California v. Acevedo
 Supreme Court of the United States
@@ -815,13 +815,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Florida v. Jardines</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b3123da04d41241e163ad.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b3123da04d41241e163ad.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b3123da04d41241e163ad.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b3123da04d41241e163ad.mp3</guid>
       <description>Florida v. Jardines
 Supreme Court of the United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b3123da04d41241e163ad.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b3123da04d41241e163ad.mp3" length="0" type="audio/mpeg" />
       <pubDate>Sat, 04 Jan 2025 08:00:00 GMT</pubDate>
       <itunes:summary>Florida v. Jardines
 Supreme Court of the United States
@@ -832,13 +832,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>United States v. Drayton</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b317fda04d41241e163b4.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b317fda04d41241e163b4.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b317fda04d41241e163b4.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b317fda04d41241e163b4.mp3</guid>
       <description>United States v. Drayton
 United States Supreme Court
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b317fda04d41241e163b4.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b317fda04d41241e163b4.mp3" length="0" type="audio/mpeg" />
       <pubDate>Sat, 04 Jan 2025 09:00:00 GMT</pubDate>
       <itunes:summary>United States v. Drayton
 United States Supreme Court
@@ -849,13 +849,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Payton v. New York</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b323cda04d41241e163bd.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b323cda04d41241e163bd.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b323cda04d41241e163bd.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b323cda04d41241e163bd.mp3</guid>
       <description>Payton v. New York
 Supreme Court of United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b323cda04d41241e163bd.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b323cda04d41241e163bd.mp3" length="0" type="audio/mpeg" />
       <pubDate>Sat, 04 Jan 2025 10:00:00 GMT</pubDate>
       <itunes:summary>Payton v. New York
 Supreme Court of United States
@@ -866,13 +866,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Old Chief v. United States</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b3c7cda04d41241e16458.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b3c7cda04d41241e16458.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b3c7cda04d41241e16458.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b3c7cda04d41241e16458.mp3</guid>
       <description>Old Chief v. United States
 United States Supreme Court
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b3c7cda04d41241e16458.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b3c7cda04d41241e16458.mp3" length="0" type="audio/mpeg" />
       <pubDate>Sat, 04 Jan 2025 11:00:00 GMT</pubDate>
       <itunes:summary>Old Chief v. United States
 United States Supreme Court
@@ -883,13 +883,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Tanner v. United States</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b44b2da04d41241e164dd.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b44b2da04d41241e164dd.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b44b2da04d41241e164dd.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b44b2da04d41241e164dd.mp3</guid>
       <description>Tanner v. United States
 Supreme Court of United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b44b2da04d41241e164dd.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b44b2da04d41241e164dd.mp3" length="0" type="audio/mpeg" />
       <pubDate>Sat, 04 Jan 2025 12:00:00 GMT</pubDate>
       <itunes:summary>Tanner v. United States
 Supreme Court of United States
@@ -900,13 +900,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Bell Atlantic v. Twombly</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b77822423c3ba321efef3.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b77822423c3ba321efef3.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b77822423c3ba321efef3.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b77822423c3ba321efef3.mp3</guid>
       <description>Bell Atlantic v. Twombly
 Supreme Court of the United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b77822423c3ba321efef3.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b77822423c3ba321efef3.mp3" length="0" type="audio/mpeg" />
       <pubDate>Sat, 04 Jan 2025 13:00:00 GMT</pubDate>
       <itunes:summary>Bell Atlantic v. Twombly
 Supreme Court of the United States
@@ -917,13 +917,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>United Mine Workers of America v. Gibbs</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b7afc2423c3ba321eff24.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b7afc2423c3ba321eff24.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b7afc2423c3ba321eff24.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b7afc2423c3ba321eff24.mp3</guid>
       <description>United Mine Workers of America v. Gibbs
 Supreme Court of the United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659b7afc2423c3ba321eff24.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/659b7afc2423c3ba321eff24.mp3" length="0" type="audio/mpeg" />
       <pubDate>Sat, 04 Jan 2025 14:00:00 GMT</pubDate>
       <itunes:summary>United Mine Workers of America v. Gibbs
 Supreme Court of the United States
@@ -934,13 +934,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Tarasoff v. Regents of Univ. of Cal.</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659bafd42423c3ba321f0112.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659bafd42423c3ba321f0112.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659bafd42423c3ba321f0112.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659bafd42423c3ba321f0112.mp3</guid>
       <description>Tarasoff v. Regents of Univ. of Cal.
 Supreme Court of California
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659bafd42423c3ba321f0112.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/659bafd42423c3ba321f0112.mp3" length="0" type="audio/mpeg" />
       <pubDate>Sat, 04 Jan 2025 15:00:00 GMT</pubDate>
       <itunes:summary>Tarasoff v. Regents of Univ. of Cal.
 Supreme Court of California
@@ -951,13 +951,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Garratt v. Dailey</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659bb8cc2423c3ba321f016b.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659bb8cc2423c3ba321f016b.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659bb8cc2423c3ba321f016b.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659bb8cc2423c3ba321f016b.mp3</guid>
       <description>Garratt v. Dailey
 The Supreme Court of Washington, Department Two
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659bb8cc2423c3ba321f016b.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/659bb8cc2423c3ba321f016b.mp3" length="0" type="audio/mpeg" />
       <pubDate>Sat, 04 Jan 2025 16:00:00 GMT</pubDate>
       <itunes:summary>Garratt v. Dailey
 The Supreme Court of Washington, Department Two
@@ -968,13 +968,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>United States v. Carroll Towing</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659bbbb52423c3ba321f0187.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659bbbb52423c3ba321f0187.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659bbbb52423c3ba321f0187.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659bbbb52423c3ba321f0187.mp3</guid>
       <description>United States v. Carroll Towing
 Circuit Court of Appeals, Second Circuit
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659bbbb52423c3ba321f0187.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/659bbbb52423c3ba321f0187.mp3" length="0" type="audio/mpeg" />
       <pubDate>Sat, 04 Jan 2025 17:00:00 GMT</pubDate>
       <itunes:summary>United States v. Carroll Towing
 Circuit Court of Appeals, Second Circuit
@@ -985,13 +985,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Katko v. Briney</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659bbe192423c3ba321f019c.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659bbe192423c3ba321f019c.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659bbe192423c3ba321f019c.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659bbe192423c3ba321f019c.mp3</guid>
       <description>Katko v. Briney
 Supreme Court of Iowa
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659bbe192423c3ba321f019c.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/659bbe192423c3ba321f019c.mp3" length="0" type="audio/mpeg" />
       <pubDate>Sat, 04 Jan 2025 18:00:00 GMT</pubDate>
       <itunes:summary>Katko v. Briney
 Supreme Court of Iowa
@@ -1002,13 +1002,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Hawkins v. McGee</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659ca9cec0d785d4a261b995.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659ca9cec0d785d4a261b995.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659ca9cec0d785d4a261b995.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659ca9cec0d785d4a261b995.mp3</guid>
       <description>Hawkins v. McGee
 Supreme Court of New Hampshire
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659ca9cec0d785d4a261b995.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/659ca9cec0d785d4a261b995.mp3" length="0" type="audio/mpeg" />
       <pubDate>Sat, 04 Jan 2025 19:00:00 GMT</pubDate>
       <itunes:summary>Hawkins v. McGee
 Supreme Court of New Hampshire
@@ -1019,13 +1019,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Oliver v. United States</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659dfdc14890e63827c93e31.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659dfdc14890e63827c93e31.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659dfdc14890e63827c93e31.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659dfdc14890e63827c93e31.mp3</guid>
       <description>Oliver v. United States
 Supreme Court of United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659dfdc14890e63827c93e31.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/659dfdc14890e63827c93e31.mp3" length="0" type="audio/mpeg" />
       <pubDate>Sat, 04 Jan 2025 20:00:00 GMT</pubDate>
       <itunes:summary>Oliver v. United States
 Supreme Court of United States
@@ -1036,13 +1036,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Lindsey v. Normet</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659e04294890e63827c93eed.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659e04294890e63827c93eed.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659e04294890e63827c93eed.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659e04294890e63827c93eed.mp3</guid>
       <description>Lindsey v. Normet
 Supreme Court of United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659e04294890e63827c93eed.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/659e04294890e63827c93eed.mp3" length="0" type="audio/mpeg" />
       <pubDate>Sat, 04 Jan 2025 21:00:00 GMT</pubDate>
       <itunes:summary>Lindsey v. Normet
 Supreme Court of United States
@@ -1053,13 +1053,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Murphy v. NCAA</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659edd8208c874892134716c.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659edd8208c874892134716c.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659edd8208c874892134716c.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659edd8208c874892134716c.mp3</guid>
       <description>Murphy v. NCAA
 Supreme Court of the United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659edd8208c874892134716c.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/659edd8208c874892134716c.mp3" length="0" type="audio/mpeg" />
       <pubDate>Sat, 04 Jan 2025 22:00:00 GMT</pubDate>
       <itunes:summary>Murphy v. NCAA
 Supreme Court of the United States
@@ -1070,13 +1070,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Hanson v. Denckla</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659efbfd33b8c67edf186291.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659efbfd33b8c67edf186291.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659efbfd33b8c67edf186291.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659efbfd33b8c67edf186291.mp3</guid>
       <description>Hanson v. Denckla
 Supreme Court of United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659efbfd33b8c67edf186291.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/659efbfd33b8c67edf186291.mp3" length="0" type="audio/mpeg" />
       <pubDate>Sat, 04 Jan 2025 23:00:00 GMT</pubDate>
       <itunes:summary>Hanson v. Denckla
 Supreme Court of United States
@@ -1087,13 +1087,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Shaffer v. Heitner</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659f071d33b8c67edf1863c6.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659f071d33b8c67edf1863c6.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659f071d33b8c67edf1863c6.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659f071d33b8c67edf1863c6.mp3</guid>
       <description>Shaffer v. Heitner
 Supreme Court of the United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659f071d33b8c67edf1863c6.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/659f071d33b8c67edf1863c6.mp3" length="0" type="audio/mpeg" />
       <pubDate>Sun, 05 Jan 2025 00:00:00 GMT</pubDate>
       <itunes:summary>Shaffer v. Heitner
 Supreme Court of the United States
@@ -1104,13 +1104,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Louisville &amp; Nashville Railroad v. Mottley</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659f149333b8c67edf18657d.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659f149333b8c67edf18657d.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659f149333b8c67edf18657d.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/659f149333b8c67edf18657d.mp3</guid>
       <description>Louisville &amp; Nashville Railroad v. Mottley
 Supreme Court of United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/659f149333b8c67edf18657d.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/659f149333b8c67edf18657d.mp3" length="0" type="audio/mpeg" />
       <pubDate>Sun, 05 Jan 2025 01:00:00 GMT</pubDate>
       <itunes:summary>Louisville &amp; Nashville Railroad v. Mottley
 Supreme Court of United States
@@ -1121,13 +1121,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Bristol-Myers Squibb Co. v. Superior Court</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65a2b9f03fc4374f9dad299a.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65a2b9f03fc4374f9dad299a.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65a2b9f03fc4374f9dad299a.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65a2b9f03fc4374f9dad299a.mp3</guid>
       <description>Bristol-Myers Squibb Co. v. Superior Court
 Supreme Court of the United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65a2b9f03fc4374f9dad299a.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/65a2b9f03fc4374f9dad299a.mp3" length="0" type="audio/mpeg" />
       <pubDate>Sun, 05 Jan 2025 02:00:00 GMT</pubDate>
       <itunes:summary>Bristol-Myers Squibb Co. v. Superior Court
 Supreme Court of the United States
@@ -1138,13 +1138,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Burnham v. Superior Court</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65a2ba013fc4374f9dad299c.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65a2ba013fc4374f9dad299c.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65a2ba013fc4374f9dad299c.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65a2ba013fc4374f9dad299c.mp3</guid>
       <description>Burnham v. Superior Court
 Supreme Court of United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65a2ba013fc4374f9dad299c.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/65a2ba013fc4374f9dad299c.mp3" length="0" type="audio/mpeg" />
       <pubDate>Sun, 05 Jan 2025 03:00:00 GMT</pubDate>
       <itunes:summary>Burnham v. Superior Court
 Supreme Court of United States
@@ -1155,13 +1155,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Hertz Corp. v. Friend</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65a2baa93fc4374f9dad29a8.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65a2baa93fc4374f9dad29a8.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65a2baa93fc4374f9dad29a8.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65a2baa93fc4374f9dad29a8.mp3</guid>
       <description>Hertz Corp. v. Friend
 Supreme Court of the United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65a2baa93fc4374f9dad29a8.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/65a2baa93fc4374f9dad29a8.mp3" length="0" type="audio/mpeg" />
       <pubDate>Sun, 05 Jan 2025 04:00:00 GMT</pubDate>
       <itunes:summary>Hertz Corp. v. Friend
 Supreme Court of the United States
@@ -1172,13 +1172,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Mas v. Perry</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65a2bb473fc4374f9dad29b1.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65a2bb473fc4374f9dad29b1.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65a2bb473fc4374f9dad29b1.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65a2bb473fc4374f9dad29b1.mp3</guid>
       <description>Mas v. Perry
 United States Court of Appeals for the Fifth Circuit
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65a2bb473fc4374f9dad29b1.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/65a2bb473fc4374f9dad29b1.mp3" length="0" type="audio/mpeg" />
       <pubDate>Sun, 05 Jan 2025 05:00:00 GMT</pubDate>
       <itunes:summary>Mas v. Perry
 United States Court of Appeals for the Fifth Circuit
@@ -1189,13 +1189,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Pennoyer v. Neff</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65a2bbcf3fc4374f9dad29bc.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65a2bbcf3fc4374f9dad29bc.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65a2bbcf3fc4374f9dad29bc.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65a2bbcf3fc4374f9dad29bc.mp3</guid>
       <description>Pennoyer v. Neff
 Supreme Court of United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65a2bbcf3fc4374f9dad29bc.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/65a2bbcf3fc4374f9dad29bc.mp3" length="0" type="audio/mpeg" />
       <pubDate>Sun, 05 Jan 2025 06:00:00 GMT</pubDate>
       <itunes:summary>Pennoyer v. Neff
 Supreme Court of United States
@@ -1206,13 +1206,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Gunn v. Minton</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65a2bcc73fc4374f9dad29d7.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65a2bcc73fc4374f9dad29d7.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65a2bcc73fc4374f9dad29d7.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65a2bcc73fc4374f9dad29d7.mp3</guid>
       <description>Gunn v. Minton
 Supreme Court of the United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65a2bcc73fc4374f9dad29d7.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/65a2bcc73fc4374f9dad29d7.mp3" length="0" type="audio/mpeg" />
       <pubDate>Sun, 05 Jan 2025 07:00:00 GMT</pubDate>
       <itunes:summary>Gunn v. Minton
 Supreme Court of the United States
@@ -1223,13 +1223,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Gordon v. Steele</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65a2c0683fc4374f9dad2a27.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65a2c0683fc4374f9dad2a27.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65a2c0683fc4374f9dad2a27.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65a2c0683fc4374f9dad2a27.mp3</guid>
       <description>Gordon v. Steele
 United States District Court, W. D. Pennsylvania
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65a2c0683fc4374f9dad2a27.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/65a2c0683fc4374f9dad2a27.mp3" length="0" type="audio/mpeg" />
       <pubDate>Sun, 05 Jan 2025 08:00:00 GMT</pubDate>
       <itunes:summary>Gordon v. Steele
 United States District Court, W. D. Pennsylvania
@@ -1240,13 +1240,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Ex Parte McCardle</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65a2ca073fc4374f9dad2af4.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65a2ca073fc4374f9dad2af4.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65a2ca073fc4374f9dad2af4.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65a2ca073fc4374f9dad2af4.mp3</guid>
       <description>Ex Parte McCardle
 Supreme Court of United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65a2ca073fc4374f9dad2af4.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/65a2ca073fc4374f9dad2af4.mp3" length="0" type="audio/mpeg" />
       <pubDate>Sun, 05 Jan 2025 09:00:00 GMT</pubDate>
       <itunes:summary>Ex Parte McCardle
 Supreme Court of United States
@@ -1257,13 +1257,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Johnson v. M'Intosh</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65a2cb423fc4374f9dad2b01.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65a2cb423fc4374f9dad2b01.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65a2cb423fc4374f9dad2b01.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65a2cb423fc4374f9dad2b01.mp3</guid>
       <description>Johnson v. M'Intosh
 Supreme Court of United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65a2cb423fc4374f9dad2b01.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/65a2cb423fc4374f9dad2b01.mp3" length="0" type="audio/mpeg" />
       <pubDate>Sun, 05 Jan 2025 10:00:00 GMT</pubDate>
       <itunes:summary>Johnson v. M'Intosh
 Supreme Court of United States
@@ -1274,13 +1274,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Kirksey v. Kirksey</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65a2db1e3fc4374f9dad2bb6.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65a2db1e3fc4374f9dad2bb6.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65a2db1e3fc4374f9dad2bb6.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65a2db1e3fc4374f9dad2bb6.mp3</guid>
       <description>Kirksey v. Kirksey
 Supreme Court of Alabama
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65a2db1e3fc4374f9dad2bb6.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/65a2db1e3fc4374f9dad2bb6.mp3" length="0" type="audio/mpeg" />
       <pubDate>Sun, 05 Jan 2025 11:00:00 GMT</pubDate>
       <itunes:summary>Kirksey v. Kirksey
 Supreme Court of Alabama
@@ -1291,13 +1291,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Hamer v. Sidway</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65a2db273fc4374f9dad2bb7.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65a2db273fc4374f9dad2bb7.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65a2db273fc4374f9dad2bb7.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65a2db273fc4374f9dad2bb7.mp3</guid>
       <description>Hamer v. Sidway
 Court of Appeals of New York
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65a2db273fc4374f9dad2bb7.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/65a2db273fc4374f9dad2bb7.mp3" length="0" type="audio/mpeg" />
       <pubDate>Sun, 05 Jan 2025 12:00:00 GMT</pubDate>
       <itunes:summary>Hamer v. Sidway
 Court of Appeals of New York
@@ -1308,13 +1308,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Klocek v. Gateway</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65a2db643fc4374f9dad2bbe.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65a2db643fc4374f9dad2bbe.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65a2db643fc4374f9dad2bbe.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65a2db643fc4374f9dad2bbe.mp3</guid>
       <description>Klocek v. Gateway
 United States District Court, D. Kansas
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65a2db643fc4374f9dad2bbe.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/65a2db643fc4374f9dad2bbe.mp3" length="0" type="audio/mpeg" />
       <pubDate>Sun, 05 Jan 2025 13:00:00 GMT</pubDate>
       <itunes:summary>Klocek v. Gateway
 United States District Court, D. Kansas
@@ -1325,13 +1325,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Leonard v. Pepsico</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65a2dc253fc4374f9dad2bce.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65a2dc253fc4374f9dad2bce.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65a2dc253fc4374f9dad2bce.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65a2dc253fc4374f9dad2bce.mp3</guid>
       <description>Leonard v. Pepsico
 United States District Court, S.D. New York
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65a2dc253fc4374f9dad2bce.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/65a2dc253fc4374f9dad2bce.mp3" length="0" type="audio/mpeg" />
       <pubDate>Sun, 05 Jan 2025 14:00:00 GMT</pubDate>
       <itunes:summary>Leonard v. Pepsico
 United States District Court, S.D. New York
@@ -1342,13 +1342,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Pennsy Supply, Inc. v. American Ash Recycling Corp. of Pennsylvania</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65a2dcc13fc4374f9dad2bdd.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65a2dcc13fc4374f9dad2bdd.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65a2dcc13fc4374f9dad2bdd.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65a2dcc13fc4374f9dad2bdd.mp3</guid>
       <description>Pennsy Supply, Inc. v. American Ash Recycling Corp. of Pennsylvania
 Superior Court of Pennsylvania
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65a2dcc13fc4374f9dad2bdd.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/65a2dcc13fc4374f9dad2bdd.mp3" length="0" type="audio/mpeg" />
       <pubDate>Sun, 05 Jan 2025 15:00:00 GMT</pubDate>
       <itunes:summary>Pennsy Supply, Inc. v. American Ash Recycling Corp. of Pennsylvania
 Superior Court of Pennsylvania
@@ -1359,13 +1359,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Wood v. Lucy, Lady Duff-Gordon</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65a2dd723fc4374f9dad2bed.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65a2dd723fc4374f9dad2bed.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65a2dd723fc4374f9dad2bed.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65a2dd723fc4374f9dad2bed.mp3</guid>
       <description>Wood v. Lucy, Lady Duff-Gordon
 Court of Appeals of New York
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65a2dd723fc4374f9dad2bed.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/65a2dd723fc4374f9dad2bed.mp3" length="0" type="audio/mpeg" />
       <pubDate>Sun, 05 Jan 2025 16:00:00 GMT</pubDate>
       <itunes:summary>Wood v. Lucy, Lady Duff-Gordon
 Court of Appeals of New York
@@ -1376,13 +1376,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Harvey v. Dow</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65a2f97c7e449db77fb66f6e.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65a2f97c7e449db77fb66f6e.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65a2f97c7e449db77fb66f6e.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65a2f97c7e449db77fb66f6e.mp3</guid>
       <description>Harvey v. Dow
 Supreme Judicial Court of Maine
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65a2f97c7e449db77fb66f6e.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/65a2f97c7e449db77fb66f6e.mp3" length="0" type="audio/mpeg" />
       <pubDate>Sun, 05 Jan 2025 17:00:00 GMT</pubDate>
       <itunes:summary>Harvey v. Dow
 Supreme Judicial Court of Maine
@@ -1393,13 +1393,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Normile v. Miller</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65a2f9ea7e449db77fb66f81.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65a2f9ea7e449db77fb66f81.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65a2f9ea7e449db77fb66f81.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65a2f9ea7e449db77fb66f81.mp3</guid>
       <description>Normile v. Miller
 Supreme Court of North Carolina
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65a2f9ea7e449db77fb66f81.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/65a2f9ea7e449db77fb66f81.mp3" length="0" type="audio/mpeg" />
       <pubDate>Sun, 05 Jan 2025 18:00:00 GMT</pubDate>
       <itunes:summary>Normile v. Miller
 Supreme Court of North Carolina
@@ -1410,13 +1410,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Pierson v. Post</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65b0524263e593b8ad1edea1.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65b0524263e593b8ad1edea1.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65b0524263e593b8ad1edea1.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65b0524263e593b8ad1edea1.mp3</guid>
       <description>Pierson v. Post
 Supreme Court of New York
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65b0524263e593b8ad1edea1.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/65b0524263e593b8ad1edea1.mp3" length="0" type="audio/mpeg" />
       <pubDate>Sun, 05 Jan 2025 19:00:00 GMT</pubDate>
       <itunes:summary>Pierson v. Post
 Supreme Court of New York
@@ -1427,13 +1427,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Carlill v. Carbolic Smoke Ball Company</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65b05b55c56e48ffc11a1884.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65b05b55c56e48ffc11a1884.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65b05b55c56e48ffc11a1884.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65b05b55c56e48ffc11a1884.mp3</guid>
       <description>Carlill v. Carbolic Smoke Ball Company
 Court of Appeal
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65b05b55c56e48ffc11a1884.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/65b05b55c56e48ffc11a1884.mp3" length="0" type="audio/mpeg" />
       <pubDate>Sun, 05 Jan 2025 20:00:00 GMT</pubDate>
       <itunes:summary>Carlill v. Carbolic Smoke Ball Company
 Court of Appeal
@@ -1444,13 +1444,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Hadley v. Baxendale</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65b05cd3312199869cbf58af.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65b05cd3312199869cbf58af.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65b05cd3312199869cbf58af.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65b05cd3312199869cbf58af.mp3</guid>
       <description>Hadley v. Baxendale
 In the Court of Exchequer
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65b05cd3312199869cbf58af.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/65b05cd3312199869cbf58af.mp3" length="0" type="audio/mpeg" />
       <pubDate>Sun, 05 Jan 2025 21:00:00 GMT</pubDate>
       <itunes:summary>Hadley v. Baxendale
 In the Court of Exchequer
@@ -1461,13 +1461,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Raffles v. Wichelhaus</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65b06086b3729e42ab5a0a32.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65b06086b3729e42ab5a0a32.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65b06086b3729e42ab5a0a32.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65b06086b3729e42ab5a0a32.mp3</guid>
       <description>Raffles v. Wichelhaus
 Court of Exchequer
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65b06086b3729e42ab5a0a32.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/65b06086b3729e42ab5a0a32.mp3" length="0" type="audio/mpeg" />
       <pubDate>Sun, 05 Jan 2025 22:00:00 GMT</pubDate>
       <itunes:summary>Raffles v. Wichelhaus
 Court of Exchequer
@@ -1478,13 +1478,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>International Shoe Co. v. Washington</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65b076cd1d70b8d25b267846.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65b076cd1d70b8d25b267846.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65b076cd1d70b8d25b267846.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65b076cd1d70b8d25b267846.mp3</guid>
       <description>International Shoe Co. v. Washington
 Supreme Court of United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65b076cd1d70b8d25b267846.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/65b076cd1d70b8d25b267846.mp3" length="0" type="audio/mpeg" />
       <pubDate>Sun, 05 Jan 2025 23:00:00 GMT</pubDate>
       <itunes:summary>International Shoe Co. v. Washington
 Supreme Court of United States
@@ -1495,13 +1495,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Erie Railroad Co. v. Tompkins</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65b07836123b843d784b611d.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65b07836123b843d784b611d.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65b07836123b843d784b611d.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65b07836123b843d784b611d.mp3</guid>
       <description>Erie Railroad Co. v. Tompkins
 Supreme Court of United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65b07836123b843d784b611d.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/65b07836123b843d784b611d.mp3" length="0" type="audio/mpeg" />
       <pubDate>Mon, 06 Jan 2025 00:00:00 GMT</pubDate>
       <itunes:summary>Erie Railroad Co. v. Tompkins
 Supreme Court of United States
@@ -1512,13 +1512,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>United States v. Jones</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65b085d292513cce832c09cb.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65b085d292513cce832c09cb.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65b085d292513cce832c09cb.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65b085d292513cce832c09cb.mp3</guid>
       <description>United States v. Jones
 Supreme Court of the United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65b085d292513cce832c09cb.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/65b085d292513cce832c09cb.mp3" length="0" type="audio/mpeg" />
       <pubDate>Mon, 06 Jan 2025 01:00:00 GMT</pubDate>
       <itunes:summary>United States v. Jones
 Supreme Court of the United States
@@ -1529,13 +1529,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Illinois v. Gates</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65b087a0b8605a1c49ede4b1.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65b087a0b8605a1c49ede4b1.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65b087a0b8605a1c49ede4b1.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65b087a0b8605a1c49ede4b1.mp3</guid>
       <description>Illinois v. Gates
 Supreme Court of United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65b087a0b8605a1c49ede4b1.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/65b087a0b8605a1c49ede4b1.mp3" length="0" type="audio/mpeg" />
       <pubDate>Mon, 06 Jan 2025 02:00:00 GMT</pubDate>
       <itunes:summary>Illinois v. Gates
 Supreme Court of United States
@@ -1546,13 +1546,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Dobbs v. Jackson Women's Health Organization</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65b12db3abeb45ba1c667cbd.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65b12db3abeb45ba1c667cbd.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65b12db3abeb45ba1c667cbd.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65b12db3abeb45ba1c667cbd.mp3</guid>
       <description>Dobbs v. Jackson Women's Health Organization
 Supreme Court of the United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65b12db3abeb45ba1c667cbd.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/65b12db3abeb45ba1c667cbd.mp3" length="0" type="audio/mpeg" />
       <pubDate>Mon, 06 Jan 2025 03:00:00 GMT</pubDate>
       <itunes:summary>Dobbs v. Jackson Women's Health Organization
 Supreme Court of the United States
@@ -1563,13 +1563,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Carpenter v. United States (Crim Pro)</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65b16af694c1ffc7dd0e3447.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65b16af694c1ffc7dd0e3447.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65b16af694c1ffc7dd0e3447.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65b16af694c1ffc7dd0e3447.mp3</guid>
       <description>Carpenter v. United States (Crim Pro)
 Supreme Court of the United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65b16af694c1ffc7dd0e3447.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/65b16af694c1ffc7dd0e3447.mp3" length="0" type="audio/mpeg" />
       <pubDate>Mon, 06 Jan 2025 04:00:00 GMT</pubDate>
       <itunes:summary>Carpenter v. United States (Crim Pro)
 Supreme Court of the United States
@@ -1580,13 +1580,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Meinhard v. Salmon</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65bbbc42e58233b72612ca07.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65bbbc42e58233b72612ca07.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65bbbc42e58233b72612ca07.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65bbbc42e58233b72612ca07.mp3</guid>
       <description>Meinhard v. Salmon
 New York Court of Appeals
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65bbbc42e58233b72612ca07.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/65bbbc42e58233b72612ca07.mp3" length="0" type="audio/mpeg" />
       <pubDate>Mon, 06 Jan 2025 05:00:00 GMT</pubDate>
       <itunes:summary>Meinhard v. Salmon
 New York Court of Appeals
@@ -1597,13 +1597,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Mills v. Wyman</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65c2fdfa13b7180d938b240f.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65c2fdfa13b7180d938b240f.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65c2fdfa13b7180d938b240f.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65c2fdfa13b7180d938b240f.mp3</guid>
       <description>Mills v. Wyman
 Massachusetts Supreme Judicial Court
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65c2fdfa13b7180d938b240f.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/65c2fdfa13b7180d938b240f.mp3" length="0" type="audio/mpeg" />
       <pubDate>Mon, 06 Jan 2025 06:00:00 GMT</pubDate>
       <itunes:summary>Mills v. Wyman
 Massachusetts Supreme Judicial Court
@@ -1614,13 +1614,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Summers v. Tice</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65d8203b4693e1528e1e157d.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65d8203b4693e1528e1e157d.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65d8203b4693e1528e1e157d.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65d8203b4693e1528e1e157d.mp3</guid>
       <description>Summers v. Tice
 California Supreme Court
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65d8203b4693e1528e1e157d.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/65d8203b4693e1528e1e157d.mp3" length="0" type="audio/mpeg" />
       <pubDate>Mon, 06 Jan 2025 07:00:00 GMT</pubDate>
       <itunes:summary>Summers v. Tice
 California Supreme Court
@@ -1631,13 +1631,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Roe v. Wade</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65de26a1f0cea578d1b736fc.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65de26a1f0cea578d1b736fc.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65de26a1f0cea578d1b736fc.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65de26a1f0cea578d1b736fc.mp3</guid>
       <description>Roe v. Wade
 Supreme Court of the United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65de26a1f0cea578d1b736fc.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/65de26a1f0cea578d1b736fc.mp3" length="0" type="audio/mpeg" />
       <pubDate>Mon, 06 Jan 2025 08:00:00 GMT</pubDate>
       <itunes:summary>Roe v. Wade
 Supreme Court of the United States
@@ -1648,13 +1648,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>West Virginia University Hospitals, Inc. v. Casey</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65e61ae0e5ed06ab88de51bc.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65e61ae0e5ed06ab88de51bc.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65e61ae0e5ed06ab88de51bc.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65e61ae0e5ed06ab88de51bc.mp3</guid>
       <description>West Virginia University Hospitals, Inc. v. Casey
 Supreme Court of the United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65e61ae0e5ed06ab88de51bc.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/65e61ae0e5ed06ab88de51bc.mp3" length="0" type="audio/mpeg" />
       <pubDate>Mon, 06 Jan 2025 09:00:00 GMT</pubDate>
       <itunes:summary>West Virginia University Hospitals, Inc. v. Casey
 Supreme Court of the United States
@@ -1665,13 +1665,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Ricketts v. Scothorn</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65e880f2aa82d0ce34b7daac.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65e880f2aa82d0ce34b7daac.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65e880f2aa82d0ce34b7daac.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65e880f2aa82d0ce34b7daac.mp3</guid>
       <description>Ricketts v. Scothorn
 Nebraska Supreme Court
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65e880f2aa82d0ce34b7daac.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/65e880f2aa82d0ce34b7daac.mp3" length="0" type="audio/mpeg" />
       <pubDate>Mon, 06 Jan 2025 10:00:00 GMT</pubDate>
       <itunes:summary>Ricketts v. Scothorn
 Nebraska Supreme Court
@@ -1682,13 +1682,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Palsgraf v. Long Island R.R. Co.</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65f5f76556f0bbc5c7205de9.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65f5f76556f0bbc5c7205de9.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65f5f76556f0bbc5c7205de9.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/65f5f76556f0bbc5c7205de9.mp3</guid>
       <description>Palsgraf v. Long Island R.R. Co.
 New York Court of Appeals
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/65f5f76556f0bbc5c7205de9.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/65f5f76556f0bbc5c7205de9.mp3" length="0" type="audio/mpeg" />
       <pubDate>Mon, 06 Jan 2025 11:00:00 GMT</pubDate>
       <itunes:summary>Palsgraf v. Long Island R.R. Co.
 New York Court of Appeals
@@ -1699,13 +1699,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Gardella v. Remizov</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/66030e1bca9e472089b2b631.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/66030e1bca9e472089b2b631.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/66030e1bca9e472089b2b631.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/66030e1bca9e472089b2b631.mp3</guid>
       <description>Gardella v. Remizov
 Appellate Division of the Supreme Court of the State of New York
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/66030e1bca9e472089b2b631.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/66030e1bca9e472089b2b631.mp3" length="0" type="audio/mpeg" />
       <pubDate>Mon, 06 Jan 2025 12:00:00 GMT</pubDate>
       <itunes:summary>Gardella v. Remizov
 Appellate Division of the Supreme Court of the State of New York
@@ -1716,13 +1716,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>A. Gay Jenson Farms Co. v. Cargill, Inc.</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/661ed401ccf801768aacfc8e.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/661ed401ccf801768aacfc8e.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/661ed401ccf801768aacfc8e.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/661ed401ccf801768aacfc8e.mp3</guid>
       <description>A. Gay Jenson Farms Co. v. Cargill, Inc.
 Supreme Court of Minnesota
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/661ed401ccf801768aacfc8e.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/661ed401ccf801768aacfc8e.mp3" length="0" type="audio/mpeg" />
       <pubDate>Mon, 06 Jan 2025 13:00:00 GMT</pubDate>
       <itunes:summary>A. Gay Jenson Farms Co. v. Cargill, Inc.
 Supreme Court of Minnesota
@@ -1733,13 +1733,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>People v. Navarro</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/661f838eabbbbf37cd99cf09.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/661f838eabbbbf37cd99cf09.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/661f838eabbbbf37cd99cf09.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/661f838eabbbbf37cd99cf09.mp3</guid>
       <description>People v. Navarro
 Appellate Division of the Superior Court of California
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/661f838eabbbbf37cd99cf09.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/661f838eabbbbf37cd99cf09.mp3" length="0" type="audio/mpeg" />
       <pubDate>Mon, 06 Jan 2025 14:00:00 GMT</pubDate>
       <itunes:summary>People v. Navarro
 Appellate Division of the Superior Court of California
@@ -1750,13 +1750,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Humble Oil &amp; Refining Co. v. Martin</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6623e0c260da03b14e6b7fd1.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6623e0c260da03b14e6b7fd1.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/6623e0c260da03b14e6b7fd1.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/6623e0c260da03b14e6b7fd1.mp3</guid>
       <description>Humble Oil &amp; Refining Co. v. Martin
 Texas Supreme Court
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6623e0c260da03b14e6b7fd1.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/6623e0c260da03b14e6b7fd1.mp3" length="0" type="audio/mpeg" />
       <pubDate>Mon, 06 Jan 2025 15:00:00 GMT</pubDate>
       <itunes:summary>Humble Oil &amp; Refining Co. v. Martin
 Texas Supreme Court
@@ -1767,13 +1767,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Trump v. United States</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6682cda3bdcf87b044dc0a3a.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6682cda3bdcf87b044dc0a3a.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/6682cda3bdcf87b044dc0a3a.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/6682cda3bdcf87b044dc0a3a.mp3</guid>
       <description>Trump v. United States
 Supreme Court of the United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/6682cda3bdcf87b044dc0a3a.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/6682cda3bdcf87b044dc0a3a.mp3" length="0" type="audio/mpeg" />
       <pubDate>Mon, 06 Jan 2025 16:00:00 GMT</pubDate>
       <itunes:summary>Trump v. United States
 Supreme Court of the United States
@@ -1784,13 +1784,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>United States v. Rahimi</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/668d8ea93893ca4393cd40ca.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/668d8ea93893ca4393cd40ca.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/668d8ea93893ca4393cd40ca.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/668d8ea93893ca4393cd40ca.mp3</guid>
       <description>United States v. Rahimi
 Supreme Court of the United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/668d8ea93893ca4393cd40ca.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/668d8ea93893ca4393cd40ca.mp3" length="0" type="audio/mpeg" />
       <pubDate>Mon, 06 Jan 2025 17:00:00 GMT</pubDate>
       <itunes:summary>United States v. Rahimi
 Supreme Court of the United States
@@ -1801,13 +1801,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Obergefell v. Hodges</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/66cf3af1c5cb2a317690d8a6.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/66cf3af1c5cb2a317690d8a6.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/66cf3af1c5cb2a317690d8a6.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/66cf3af1c5cb2a317690d8a6.mp3</guid>
       <description>Obergefell v. Hodges
 Supreme Court of the United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/66cf3af1c5cb2a317690d8a6.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/66cf3af1c5cb2a317690d8a6.mp3" length="0" type="audio/mpeg" />
       <pubDate>Mon, 06 Jan 2025 18:00:00 GMT</pubDate>
       <itunes:summary>Obergefell v. Hodges
 Supreme Court of the United States
@@ -1818,13 +1818,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Vincent v. Lake Erie Transportation Co.</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/66d099fe957c0b8b4601f52e.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/66d099fe957c0b8b4601f52e.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/66d099fe957c0b8b4601f52e.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/66d099fe957c0b8b4601f52e.mp3</guid>
       <description>Vincent v. Lake Erie Transportation Co.
 Supreme Court of Minnesota
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/66d099fe957c0b8b4601f52e.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/66d099fe957c0b8b4601f52e.mp3" length="0" type="audio/mpeg" />
       <pubDate>Mon, 06 Jan 2025 19:00:00 GMT</pubDate>
       <itunes:summary>Vincent v. Lake Erie Transportation Co.
 Supreme Court of Minnesota
@@ -1835,13 +1835,13 @@ Access the interactive case brief for this case (and tens of thousands of other 
 
     <item>
       <title>Mallory v. Norfolk Southern R. Co</title>
-      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/66d9c1fa23c624194f3d288a.mp3</link>
-      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/66d9c1fa23c624194f3d288a.mp3</guid>
+      <link>https://lexplug.nyc3.cdn.digitaloceanspaces.com/66d9c1fa23c624194f3d288a.mp3</link>
+      <guid>https://lexplug.nyc3.cdn.digitaloceanspaces.com/66d9c1fa23c624194f3d288a.mp3</guid>
       <description>Mallory v. Norfolk Southern R. Co
 Supreme Court of the United States
 
 Access the interactive case brief for this case (and tens of thousands of other cases) at Lexplug.com</description>
-      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/audio_outputs/66d9c1fa23c624194f3d288a.mp3" length="0" type="audio/mpeg" />
+      <enclosure url="https://lexplug.nyc3.cdn.digitaloceanspaces.com/66d9c1fa23c624194f3d288a.mp3" length="0" type="audio/mpeg" />
       <pubDate>Mon, 06 Jan 2025 20:00:00 GMT</pubDate>
       <itunes:summary>Mallory v. Norfolk Southern R. Co
 Supreme Court of the United States
